@@ -5,5 +5,7 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Bylaws"
+    url: https://docs.google.com/document/d/1P2c3tYmdmiiAtdutfv56RYQda9ewqtiAplqLqNRzwa4/edit?usp=sharing
   - title: "About"
     url: /about/
