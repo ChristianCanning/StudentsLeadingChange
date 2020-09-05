@@ -105,6 +105,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+      
+  # _home
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: splash
 
 category_archive:
   type: liquid
