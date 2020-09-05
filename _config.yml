@@ -77,7 +77,7 @@ footer:
       url: "https://discord.gg/TNg46D5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ChristianCanning/StudentsLeadingChange"
 
 defaults:
   # _posts

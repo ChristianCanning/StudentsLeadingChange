@@ -1,8 +1,8 @@
-# TWHS Students Leading Change website code
+# TWHS Students Leading Change Website Code
 
 Welcome to the source code for the Students Leading Change website! 
 Here you can find the source code for the website. It mainly uses markdown, so there isn't much of a learning curve before you can start modifying the website.
-If you would like to contribute, please make sure you read the [*docs*](https://studentsleadingchange.com/docs)
+If you would like to contribute, please make sure you read the [*docs*](https://studentsleadingchange.com/docs).
 
 This website is built with Jekyll and runs on Github pages. 
 
