@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/pawel-czerwinski-LEbkdsB8OMg-unsplash.jpg
-excerpt: "Welcome to the TWHS Students Leading Change club!"
+excerpt: "Welcome to the Students Leading Change club!"
 intro: 
   - excerpt: ''
 ##feature_row:
