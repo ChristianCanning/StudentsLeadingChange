@@ -1,0 +1,8 @@
+Taylee Whitehead:
+  name        : "Taylee Whitehead"
+  bio         : "Students Leading Change secretary and website manager."
+  avatar      : "/assets/images/taylee.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tayleemae22@gmail.com"
