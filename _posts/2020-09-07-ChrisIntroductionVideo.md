@@ -1,12 +1,12 @@
-
+---
 author: Chris Canning
-title: "Post: Chris Canning Introduction Video"
+title: "Chris Canning Introduction Video"
 categories:
   - blog
 tags:
   - Introduction
+---
 
+Here is my introduction video!
 
-YouTube video embed below.
-
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=UYxUbOClAts" frameborder="0" allowfullscreen></iframe
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/UYxUbOClAts?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe
