@@ -1,11 +1,11 @@
----
+
 author: Chris Canning
 title: "Post: Chris Canning Introduction Video"
 categories:
   - blog
 tags:
   - Introduction
----
+
 
 YouTube video embed below.
 
