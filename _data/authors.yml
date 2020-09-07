@@ -1,4 +1,4 @@
-Taylee Whitehead:
+- Taylee Whitehead:
   name        : "Taylee Whitehead"
   bio         : "Students Leading Change secretary and website manager."
   avatar      : "/assets/images/taylee.jpg"
@@ -6,3 +6,15 @@ Taylee Whitehead:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tayleemae22@gmail.com"
+      
+ - Chris Canning:
+  name        : "Chris Canning"
+  bio         : "Students Leading Change club president."
+  avatar      : "/assets/images/Chris.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:canningnz@gmail.com"
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCnqvlNYCCc5yJqW_3Fi_qHA"
