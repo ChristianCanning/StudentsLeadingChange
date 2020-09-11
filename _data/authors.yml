@@ -18,3 +18,30 @@ Chris Canning:
     - label: "Youtube"
       icon: "fab fa-youtube-square"
       url: "https://www.youtube.com/channel/UCnqvlNYCCc5yJqW_3Fi_qHA"
+      
+Fernando de Salvidea Lozano:
+  name        : "Fernando de Salvidea Lozano"
+  bio         : ""
+  avatar      : "/assets/images/logo.jpg"
+  links:
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCcwLR7tFz93XwHBj6nkK9fw"
+      
+Arun Parameswaran:
+  name        : "Arun Parameswaran"
+  bio         : "Students Leading Change vice president."
+  avatar      : "/assets/images/logo.jpg"
+  links:
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCgGf6bBFEhHJCrvPUunEH5Q"
+      
+Sowmya Swaminathan:
+  name        : "Sowmya Swaminathan"
+  bio         : "Students Leading Change historian."
+  avatar      : "/assets/images/logo.jpg"
+  links:
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCk0zNvZNrzzxcvsQJRlDxRA"
