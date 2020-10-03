@@ -45,3 +45,21 @@ Sowmya Swaminathan:
     - label: "Youtube"
       icon: "fab fa-youtube-square"
       url: "https://www.youtube.com/channel/UCk0zNvZNrzzxcvsQJRlDxRA"
+      
+Alex Mayer:
+  name        : "Alex Mayer"
+  bio         : "Students Leading Change editor-in-chief."
+  avatar      : "/assets/images/logo.jpg"
+  links:
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCMSKE8HWSsR69Z8SLKjw7Dw"
+      
+Caden Canning:
+  name        : "Caden Canning"
+  bio         : ""
+  avatar      : "/assets/images/logo.jpg"
+  links:
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCZ_WF0ydteM0V0y6EsMoa9g"
